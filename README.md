@@ -1,27 +1,27 @@
-# 🎮 Batalha Naval
+# 🎮 Naval Battle
  
-### 🚀 Linguagem: 
+### 🚀 Language: 
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/LucasLima337)
 ---
 
-### Menu do Jogo:
-Opções   | Ação
+### Game Menu:
+Options   | Actions
 --------- | ------
-[ 1 ] | Jogar 👦
-[ 2 ] | Sobre 📖
-[ 3 ] | Sair ❌
+[ 1 ] | Play 👦
+[ 2 ] | About 📖
+[ 3 ] | Exit ❌
 ---
 
-### 🎨🖌 Personalização
-* #### Para alterar o tamanho do tabuleiro, apenas altere o valor da seguinte linha:
+### 🎨🖌 Personalization
+* #### To change the size of the board, just change the value of the following line:
 ```c++
 #define TAMTABULEIRO 10
 ```
-* #### Para alterar a quantidade de tentativas, apenas altere o valor da seguinte linha:
+* #### To change the number of attempts, just change the value of the following line:
 ```c++
 #define MAXTENTATIVAS 3
 ```
-* #### Para alterar a quantidade de barcos, apenas altere o valor da seguinte linha:
+* #### To change the number of boats, just change the value of the following line:
 ```c++
 #define QNTBARCOS 10
 ```
